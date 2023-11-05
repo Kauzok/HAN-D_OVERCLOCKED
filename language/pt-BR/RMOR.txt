@@ -12,41 +12,41 @@
 	"MORIYA_RMOR_BODY_PASSIVE_DESC" : "<style=cIsDamage>Reduz o dano recebido</style> em <style=cIsDamage>0.3%</style> de sua saúde máxima a cada <style=cIsUtility>drone</style> ativo.",\
 
 	"MORIYA_RMOR_BODY_PRIMARY_NAME" : "ERRADICAR",
-	"MORIYA_RMOR_BODY_PRIMARY_DESC" : "Shoot a missile which explodes on impact for <style=cIsDamage>390% damage</style>. While <style=cIsHealing>FORTIFY</style> is active, missiles fly faster for <style=cIsUtilitye>Stun on hit</style>",
+	"MORIYA_RMOR_BODY_PRIMARY_DESC" : "Atire um míssil que explode com o impacto, causando <style=cIsDamage>390% de dano</style>. Enquanto <style=cIsHealing>FORTIFICAR</style> estiver ativo, mísseis voam mais ráido e <style=cIsUtilitye>Atordoam ao golpear</style>",
 	"MORIYA_RMOR_BODY_PRIMARY_GUN_NAME" : "ASSALTO",
 	"MORIYA_RMOR_BODY_PRIMARY_GUN_DESC" : "Dispare rapidamente com duas metralhadoras para causar <style=cIsDamage>90% de dano</style>.",
 	"MORIYA_RMOR_BODY_PRIMARY_BLADE_NAME" : "ESPETO",
-	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Apunhale todos os combatentes,causando <style=cIsDamage>220% de dano</style>. Causa <style=cIsDamage>sangramento</style> enquanto <style=cIsHealing>FORTIFICAR</style> estiver ativo.",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Apunhale todos os combatentes, causando <style=cIsDamage>220% de dano</style>. Causa <style=cIsDamage>sangramento</style> enquanto <style=cIsHealing>FORTIFICAR</style> estiver ativo.",
 	
 	"MORIYA_RMOR_BODY_ALTSECONDARY_NAME" : "REMONTAGEM_FORÇADA",
-	"MORIYA_RMOR_BODY_ALTSECONDARY_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma grande força contra todos os inimigos, causando <style=cIsDamage>600%-1500% de dano</style>.",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma grande força contra todos os inimigos, causando <style=cIsDamage>600%-1.500% de dano</style>.",
 	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_NAME" : "REMONTAGEM_ANTIÉTICA",
-	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma força <style=cIsHealth>INSUPORTÁVEL</style> em todos os inimigos, causando <style=cIsDamage>900%-2250% de dano</style>.",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Atordoante</style>. Realize uma investida e aplique uma força <style=cIsHealth>INSUPORTÁVEL</style> em todos os inimigos, causando <style=cIsDamage>900%-2.250% de dano</style>.",
 
-	"MORIYA_RMOR_BODY_SECONDARY_NAME" : "CANHÂO_CONJUNTO",
+	"MORIYA_RMOR_BODY_SECONDARY_NAME" : "CANHÃO_CONJUNTO",
 	"MORIYA_RMOR_BODY_SECONDARY_DESC" : "Carregue e dispare um poderoso míssil, causando <style=cIsDamage>800%-2400% de dano</style>.",
-	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_NAME" : "CANHÃO_DO_OBÍVIO",
-	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_DESC" : "Carregue rapidamente e dispare um poderoso míssil, causando <style=cIsDamage>800%-3200% de dano</style>.",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_NAME" : "CANHÃO_DO_OBLÍVIO",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_DESC" : "Carregue rapidamente e dispare um poderoso míssil, causando <style=cIsDamage>800%-3.200% de dano</style>.",
 	
 	
 	"KEYWORD_MORIYAHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Impulso</style><style=cSub>A habilidade pode ser cancelada antes para impulsionar ao ar.</style>",
 	"KEYWORD_MORIYARMOR_BLEEDING" : "<style=cKeywordName>Sangramento</style><style=cSub>Habilidade causa sangramento ao atingir.</style>",
-	"KEYWORD_MORIYARMOR_Weaken" : "<style=cKeywordName>Enfraquecer</style><style=cSub>Reduz a armadura em 30%, reduz a velocidade de movimento e o dano causado em 40%.</style>",
+	"KEYWORD_MORIYARMOR_WEAKEN" : "<style=cKeywordName>Enfraquecer</style><style=cSub>Reduz a armadura em 30%, reduz a velocidade de movimento e o dano causado em 40%.</style>",
 	
 	"MORIYA_RMOR_BODY_UTILITY_CANCEL_NAME" : "CANCELAR",
 	"MORIYA_RMOR_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Impulsiona ao ar</style>.",
 	
 	"MORIYA_RMOR_BODY_UTILITY_NAME" : "OVERCLOCK",
-	"MORIYA_RMOR_BODY_UTILITY_DESC" : "<style=cIsUtility>Impulso</style>. Aumente a <style=cIsUtility>velocidade de movimento</style> e a <style=cIsDamage>velocidade de ataque</style> em <style=cIsDamage>40%</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
+	"MORIYA_RMOR_BODY_UTILITY_DESC" : "<style=cIsUtility>Impulso</style>. Aumente a <style=cIsUtility>velocidade de movimento</style> e a <style=cIsDamage>velocidade de ataque</style> em <style=cIsDamage>40%</style>. Golpear inimigos <style=cIsUtility>aumenta a duração</style>.",
 	
 	"MORIYA_RMOR_BODY_UTILITY_RMOR_NAME" : "FORITIFCAR",
-	"MORIYA_RMOR_BODY_UTILITY_RMOR_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsUtility>100 de armadura</style> e comece a gerar constantemente <style=cIsUtility>12 de Barreira por segundo</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsUtility>100 de armadura</style> e comece a gerar constantemente <style=cIsUtility>12 de Barreira por segundo</style>. Golpear inimigos <style=cIsUtility>aumenta a duração</style>.",
 	
 	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_NAME" : "FOCO",
-	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsDamage>+50% de dano</style> e <style=cIsUtility>50 de armadura</style>, mas perde <style=cIsHealth>-30% de velocidade de movimento</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsDamage>+50% de dano</style> e <style=cIsUtility>50 de armadura</style>, mas perde <style=cIsHealth>-30% de velocidade de movimento</style>. Golpear inimigos <style=cIsUtility>aumenta a duração</style>.",
 	
 	"MORIYA_RMOR_BODY_SPECIAL_NAME" : "MÍSSIL",
-	"MORIYA_RMOR_BODY_SPECIAL_DESC" : "Atire mísseis que causam <style=cIsDamage>250% de dano</style> e <style=cIsDamage>Enfraquecem</style> ao atingir. Matar inimigos ou atingí-los com ataques corpo-a-corpo <style=cIsUtility>reduzem o tempo de espera</style>.",
+	"MORIYA_RMOR_BODY_SPECIAL_DESC" : "Atire mísseis que causam <style=cIsDamage>250% de dano</style> e <style=cIsDamage>Enfraquecem</style> ao atingir. Abater inimigos ou atingí-los com ataques corpo-a-corpo <style=cIsUtility>reduzem o tempo de recarga</style>.",
 	
 	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_NAME" : "Batalha Árdua",
 	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_DESCRIPTION" : "Alcance 1.000 de Armadura em uma única jogatina.",
@@ -58,7 +58,7 @@
 	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_DESCRIPTION" : "Como R-MOR, complete um estágio sem ficar abaixo de 60% de saúde.",
 
 	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_NAME" : "R-MOR: Controle de Multidão",
-	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_DESCRIPTION" : "Como R-MOR, perfome um abate múltiplo de 20 inimigos.",
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_DESCRIPTION" : "Como R-MOR, performe um abate múltiplo de 20 inimigos.",
 	
 	"MORIYA_RMOR_BODY_MASTERY_SKIN_NAME" : "2-HOU",
 	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_NAME" : "R-MOR: Domínio",
